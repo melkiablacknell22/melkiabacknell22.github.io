@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+}
+
+ section { 
+    background-color: rgb(141, 82, 5);
+    display: flex;
+    
+
+display: inline-block;
+vertical-align:top;
+    transition: all 1s;
+
+    box-sizing: border-box;
+    width: 80px;
+    height:50vh;
+    padding: 1em;
+    border:10px solid black;
+    margin: 10px;
+ }
+
+ #alice{
+     background-color: rgb(97, 58, 11);
+ }
+
+ .fancy{
+     color: orange;
+     font-family: cursive;
+     letter-spacing: 1em;
+ }
+
+ section:hover{
+     background-color: red;
+     cursor: crosshair;
+ }
+
+ section:active {
+     outline: 10px dotted purple;
+     
+ }
