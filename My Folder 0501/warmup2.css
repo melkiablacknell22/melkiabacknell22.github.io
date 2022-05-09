@@ -1,0 +1,10 @@
+section {
+    width: 200px;
+    border: 15px;
+    padding: 50px;
+    margin: 90px;
+    background-color: purple;
+    border-style: dashed;
+    border-width: 00;
+    border-color: aqua;
+}
