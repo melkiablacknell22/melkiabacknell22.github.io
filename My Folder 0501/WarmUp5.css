@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    padding: 60px;
+    background-color: rgb(124, 128, 0);
+}
+h1{
+    margin: 20px;
+}
+a{ 
+    color: aliceblue;
+}
+a:hover {
+    
+    text-decoration: none;
+}
+
+ p{
+ border-bottom: 3px solid yellow;
+ border-top: 3px solid yellow;
+ }
+
